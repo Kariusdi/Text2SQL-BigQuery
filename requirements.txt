@@ -1,0 +1,23 @@
+# Langchain and Langgraph
+langgraph
+langchain
+langchain-google-vertexai
+langchain-google-genai
+langchain-community
+langchainhub
+
+# Default packages
+python-dotenv
+pandas
+db-dtypes
+pandas-gbq
+tabulate
+
+# Sql
+sqlalchemy-bigquery
+
+# Big Query
+google-cloud-bigquery-storage
+
+# DuckDB
+duckdb
